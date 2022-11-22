@@ -1,0 +1,4 @@
+#Mon Nov 21 04:00:15 GMT+07:00 2022
+base.0=/Users/stepanlopatin/StudioProjects/sputnik_test_task/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
